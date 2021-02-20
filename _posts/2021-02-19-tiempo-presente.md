@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Tiempo presente en quechua"
 date:   2021-02-18 23:48:42 -0500
 categories: quechua
